@@ -1,4 +1,4 @@
-# CCL2015| ProprioLoop
+# ProprioLoop | Choreographic Coding Lab 2015  
 
 Caitlin Sikora, Eozin Che, Chanwook Min 
 
